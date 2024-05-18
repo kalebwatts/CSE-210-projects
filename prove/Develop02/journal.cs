@@ -4,14 +4,10 @@ using System.Collections.Generic;
 
 public class Journal
 {
-    public List<string> Dates { get; private set; } = new List<string>();
-    public List<string> Prompts { get; private set; } = new List<string>();
-    public List<string> Entries { get; private set; } = new List<string>();
+    public List<Entry> Entries { get; private set; } = new List<Entry>();
 
-    public void SaveEntry(string date, string prompt, string entry)
+    public void SaveEntry(Entry entry)
     {
-        Dates.Add(date);
-        Prompts.Add(prompt);
         Entries.Add(entry);
         Console.WriteLine("Entry saved to journal.");
     }

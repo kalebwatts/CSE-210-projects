@@ -2,14 +2,21 @@ using System;
 
 public class Entry
 {
-    public string GetDateTime()
+    public string DateTime { get; private set; }
+    public string Prompt { get; private set; }
+    public string EntryText { get; private set; }
+
+    public Entry(string prompt, string entryText)
     {
-        return DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"); // Current date and time
+        DateTime = System.DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"); // Current date and time
+        Prompt = prompt;
+        EntryText = entryText;
     }
 
-    public void AddEntry(string prompt, string entry, Journal journal)
+    public Entry(string prompt, string entryText, string dateTime)
     {
-        string dateTime = GetDateTime();
-        journal.SaveEntry(dateTime, prompt, entry);
+        DateTime = dateTime;
+        Prompt = prompt;
+        EntryText = entryText;
     }
 }

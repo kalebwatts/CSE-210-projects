@@ -24,19 +24,19 @@ public class Program
                     Console.WriteLine(prompt);
                     Console.WriteLine("Write your entry:");
                     string entryText = Console.ReadLine();
-                    Entry entryManager = new Entry();
-                    entryManager.AddEntry(prompt, entryText, journal);
+                    Entry entryManager = new Entry(prompt, entryText);
+                    journal.SaveEntry(entryManager);
                     break;
                 case "2":
                     DisplayJournal();
                     break;
                 case "3":
-                    Console.WriteLine("Enter the filename to save to the journal:");
+                    Console.Write("Enter the filename to save the journal: ");
                     string saveFileName = Console.ReadLine();
                     SaveJournalToFile(saveFileName);
                     break;
                 case "4":
-                    Console.WriteLine("Enter the filename to load from the journal:");
+                    Console.Write("Enter the filename to load the journal: ");
                     string loadFileName = Console.ReadLine();
                     LoadJournalFromFile(loadFileName);
                     break;
@@ -63,11 +63,11 @@ public class Program
     static void DisplayJournal()
     {
         Console.WriteLine("Journal Entries:");
-        for (int i = 0; i < journal.Dates.Count; i++)
+        foreach (var entry in journal.Entries)
         {
-            Console.WriteLine($"Date: {journal.Dates[i]}");
-            Console.WriteLine($"Prompt: {journal.Prompts[i]}");
-            Console.WriteLine($"Entry: {journal.Entries[i]}");
+            Console.WriteLine($"Date: {entry.DateTime}");
+            Console.WriteLine($"Prompt: {entry.Prompt}");
+            Console.WriteLine($"Entry: {entry.EntryText}");
             Console.WriteLine();
         }
     }
@@ -76,11 +76,11 @@ public class Program
     {
         using (StreamWriter writer = new StreamWriter(fileName))
         {
-            for (int i = 0; i < journal.Dates.Count; i++)
+            foreach (var entry in journal.Entries)
             {
-                writer.WriteLine(journal.Dates[i]);
-                writer.WriteLine(journal.Prompts[i]);
-                writer.WriteLine(journal.Entries[i]);
+                writer.WriteLine(entry.DateTime);
+                writer.WriteLine(entry.Prompt);
+                writer.WriteLine(entry.EntryText);
             }
         }
         Console.WriteLine($"Journal entries saved to {fileName}.");
@@ -98,8 +98,8 @@ public class Program
                 while ((date = reader.ReadLine()) != null)
                 {
                     string prompt = reader.ReadLine();
-                    string entry = reader.ReadLine();
-                    journal.SaveEntry(date, prompt, entry);
+                    string entryText = reader.ReadLine();
+                    journal.SaveEntry(new Entry(prompt, entryText, date));
                 }
             }
             Console.WriteLine($"Journal entries loaded from {fileName}.");
