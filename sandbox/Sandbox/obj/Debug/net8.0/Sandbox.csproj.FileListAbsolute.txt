@@ -1,0 +1,15 @@
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.exe
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.deps.json
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.runtimeconfig.json
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.dll
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.pdb
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.AssemblyInfoInputs.cache
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.AssemblyInfo.cs
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.sourcelink.json
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.dll
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\obj\Debug\net8.0\refint\Sandbox.dll
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.pdb
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.genruntimeconfig.cache
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\sandbox\Sandbox\obj\Debug\net8.0\ref\Sandbox.dll

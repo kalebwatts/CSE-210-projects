@@ -1,0 +1,15 @@
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.exe
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.deps.json
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.runtimeconfig.json
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.dll
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.pdb
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.AssemblyInfoInputs.cache
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.AssemblyInfo.cs
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.csproj.CoreCompileInputs.cache
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.sourcelink.json
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.dll
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\obj\Debug\net8.0\refint\Prep4.dll
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.pdb
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\obj\Debug\net8.0\Prep4.genruntimeconfig.cache
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\csharp-prep\Prep4\obj\Debug\net8.0\ref\Prep4.dll

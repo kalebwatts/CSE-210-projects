@@ -1,0 +1,15 @@
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\bin\Debug\net8.0\Develop02.exe
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\bin\Debug\net8.0\Develop02.deps.json
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\bin\Debug\net8.0\Develop02.runtimeconfig.json
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\bin\Debug\net8.0\Develop02.dll
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\bin\Debug\net8.0\Develop02.pdb
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\obj\Debug\net8.0\Develop02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\obj\Debug\net8.0\Develop02.AssemblyInfoInputs.cache
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\obj\Debug\net8.0\Develop02.AssemblyInfo.cs
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\obj\Debug\net8.0\Develop02.csproj.CoreCompileInputs.cache
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\obj\Debug\net8.0\Develop02.sourcelink.json
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\obj\Debug\net8.0\Develop02.dll
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\obj\Debug\net8.0\refint\Develop02.dll
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\obj\Debug\net8.0\Develop02.pdb
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\obj\Debug\net8.0\Develop02.genruntimeconfig.cache
+C:\Users\kaleb\Documents\CSE 210\CSE-210-projects\CSE-210-projects-2\prove\Develop02\obj\Debug\net8.0\ref\Develop02.dll
