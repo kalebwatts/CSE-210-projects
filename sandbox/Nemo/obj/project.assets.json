@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaleb\\Documents\\CSE 210\\CSE-210-projects\\CSE-210-projects-2\\sandbox\\Nemo\\Nemo.csproj",
+      "projectUniqueName": "C:\\Users\\kaleb\\source\\repos\\CSE-210-projects\\sandbox\\Nemo\\Nemo.csproj",
       "projectName": "Nemo",
-      "projectPath": "C:\\Users\\kaleb\\Documents\\CSE 210\\CSE-210-projects\\CSE-210-projects-2\\sandbox\\Nemo\\Nemo.csproj",
+      "projectPath": "C:\\Users\\kaleb\\source\\repos\\CSE-210-projects\\sandbox\\Nemo\\Nemo.csproj",
       "packagesPath": "C:\\Users\\kaleb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaleb\\Documents\\CSE 210\\CSE-210-projects\\CSE-210-projects-2\\sandbox\\Nemo\\obj\\",
+      "outputPath": "C:\\Users\\kaleb\\source\\repos\\CSE-210-projects\\sandbox\\Nemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kaleb\\AppData\\Roaming\\NuGet\\NuGet.Config"
