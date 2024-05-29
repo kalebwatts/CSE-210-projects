@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kaleb\\Documents\\CSE 210\\CSE-210-projects\\CSE-210-projects\\csharp-prep\\Prep1\\Prep1.csproj": {}
+    "C:\\Users\\kaleb\\source\\repos\\CSE-210-projects\\csharp-prep\\Prep1\\Prep1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kaleb\\Documents\\CSE 210\\CSE-210-projects\\CSE-210-projects\\csharp-prep\\Prep1\\Prep1.csproj": {
+    "C:\\Users\\kaleb\\source\\repos\\CSE-210-projects\\csharp-prep\\Prep1\\Prep1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaleb\\Documents\\CSE 210\\CSE-210-projects\\CSE-210-projects\\csharp-prep\\Prep1\\Prep1.csproj",
+        "projectUniqueName": "C:\\Users\\kaleb\\source\\repos\\CSE-210-projects\\csharp-prep\\Prep1\\Prep1.csproj",
         "projectName": "Prep1",
-        "projectPath": "C:\\Users\\kaleb\\Documents\\CSE 210\\CSE-210-projects\\CSE-210-projects\\csharp-prep\\Prep1\\Prep1.csproj",
+        "projectPath": "C:\\Users\\kaleb\\source\\repos\\CSE-210-projects\\csharp-prep\\Prep1\\Prep1.csproj",
         "packagesPath": "C:\\Users\\kaleb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaleb\\Documents\\CSE 210\\CSE-210-projects\\CSE-210-projects\\csharp-prep\\Prep1\\obj\\",
+        "outputPath": "C:\\Users\\kaleb\\source\\repos\\CSE-210-projects\\csharp-prep\\Prep1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kaleb\\AppData\\Roaming\\NuGet\\NuGet.Config"
