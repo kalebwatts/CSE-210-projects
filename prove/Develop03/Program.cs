@@ -32,7 +32,7 @@ using System;
                 {
                     Console.Clear();
                     Console.WriteLine(scripture.ToString());
-                    Console.WriteLine("\nAll words and reference parts are hidden. Program will end.");
+                    Console.WriteLine("\nYou rock!");
                     break;
                 }
             }
