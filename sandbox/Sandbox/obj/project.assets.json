@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaleb\\Documents\\CSE 210\\CSE-210-projects\\CSE-210-projects\\sandbox\\Sandbox\\Sandbox.csproj",
+      "projectUniqueName": "C:\\Users\\kaleb\\source\\repos\\CSE-210-projects\\sandbox\\Sandbox\\Sandbox.csproj",
       "projectName": "Sandbox",
-      "projectPath": "C:\\Users\\kaleb\\Documents\\CSE 210\\CSE-210-projects\\CSE-210-projects\\sandbox\\Sandbox\\Sandbox.csproj",
+      "projectPath": "C:\\Users\\kaleb\\source\\repos\\CSE-210-projects\\sandbox\\Sandbox\\Sandbox.csproj",
       "packagesPath": "C:\\Users\\kaleb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaleb\\Documents\\CSE 210\\CSE-210-projects\\CSE-210-projects\\sandbox\\Sandbox\\obj\\",
+      "outputPath": "C:\\Users\\kaleb\\source\\repos\\CSE-210-projects\\sandbox\\Sandbox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kaleb\\AppData\\Roaming\\NuGet\\NuGet.Config"

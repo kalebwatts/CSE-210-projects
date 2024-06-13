@@ -1,9 +1,13 @@
 using System;
 
-class Program
+public class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Sandbox World!");
+        Console.WriteLine("+");
+        Thread.Sleep(500);
+        Console.WriteLine("\b \b");
+
+        Console.WriteLine("-");
     }
 }
