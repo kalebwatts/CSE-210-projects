@@ -1,0 +1,15 @@
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\bin\Debug\net8.0\Learning05.exe
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\bin\Debug\net8.0\Learning05.deps.json
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\bin\Debug\net8.0\Learning05.runtimeconfig.json
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\bin\Debug\net8.0\Learning05.dll
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\bin\Debug\net8.0\Learning05.pdb
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\obj\Debug\net8.0\Learning05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\obj\Debug\net8.0\Learning05.AssemblyInfoInputs.cache
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\obj\Debug\net8.0\Learning05.AssemblyInfo.cs
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\obj\Debug\net8.0\Learning05.csproj.CoreCompileInputs.cache
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\obj\Debug\net8.0\Learning05.sourcelink.json
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\obj\Debug\net8.0\Learning05.dll
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\obj\Debug\net8.0\refint\Learning05.dll
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\obj\Debug\net8.0\Learning05.pdb
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\obj\Debug\net8.0\Learning05.genruntimeconfig.cache
+C:\Users\kaleb\source\repos\CSE-210-projects\prepare\Learning05\obj\Debug\net8.0\ref\Learning05.dll
