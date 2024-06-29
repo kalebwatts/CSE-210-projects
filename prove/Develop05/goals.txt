@@ -1,0 +1,5 @@
+SimpleGoal|run|three times a week|20|True
+EternalGoal|temple|once a month|50|False
+EternalGoal|temple|once a week|20|False
+ChecklistGoal|talk|once a year|40|True|3|3|500
+SimpleGoal|eat|lunch|50|False
